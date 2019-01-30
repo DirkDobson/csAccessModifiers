@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/accessModifiers/bin/Debug/netcoreapp2.1/accessModifiers.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/accessModifiers/bin/Debug/netcoreapp2.1/accessModifiers.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/accessModifiers/bin/Debug/netcoreapp2.1/accessModifiers.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/accessModifiers/bin/Debug/netcoreapp2.1/accessModifiers.dll
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/accessModifiers/bin/Debug/netcoreapp2.1/accessModifiers.pdb
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/accessModifiers/obj/Debug/netcoreapp2.1/accessModifiers.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/accessModifiers/obj/Debug/netcoreapp2.1/accessModifiers.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/accessModifiers/obj/Debug/netcoreapp2.1/accessModifiers.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/accessModifiers/obj/Debug/netcoreapp2.1/accessModifiers.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/accessModifiers/obj/Debug/netcoreapp2.1/accessModifiers.dll
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/accessModifiers/obj/Debug/netcoreapp2.1/accessModifiers.pdb
